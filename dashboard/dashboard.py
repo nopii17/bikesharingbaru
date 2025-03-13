@@ -13,7 +13,7 @@ st.title("Bike Sharing Data Analysis")
 # Cache data loading (Updated to use st.cache_data)
 @st.cache_data
 def load_data():
-    day_df = pd.read_csv("C:\\Users\\Novia Rahmadhani\\OneDrive\\Documents\\Bike-sharing-dataset\\dashboard\\newday.csv")
+    day_df = pd.read_csv("dashboard/newday.csv")
     return day_df
 
 day_df = load_data()
