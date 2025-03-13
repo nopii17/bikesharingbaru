@@ -8,6 +8,7 @@ streamlit run dashboard.py
 README ASSIGNMENT by Novia Rahmadhani Purnomo
 email : noviarp17@student.ub.ac.id
 Cohort ID : mc006d5x2415
+Github Project : https://github.com/nopii17/bikesharingbaru 
 
 day.csv --> file dataset awal (belum di cleaning)
 hour.csv --> file dataset awal (belum di cleaning)
