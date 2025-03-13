@@ -1,1 +1,2 @@
-https://bikesharingbaru-fn3wm2in9gjjzsat9dmtbu.streamlit.app/
+dashboard streamlit : https://bikesharingbaru-fn3wm2in9gjjzsat9dmtbu.streamlit.app/
+github project : https://github.com/nopii17/bikesharingbaru 
