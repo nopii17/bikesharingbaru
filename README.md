@@ -1,13 +1,13 @@
 # Dashboard Bike Sharing ✨
 ## New Update!!
-...
+```
 Dashboard sudah interaktif dapat berubah berdasarkan tanggal
-...
+```
 ## Set Up Environtment - VS Code untuk Dashboard 
-...
+```
 py -m venv .venv
 .venv\Scripts\activate
-...
+```
 ## Run steamlit app
 
 ```
