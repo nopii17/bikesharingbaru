@@ -1,5 +1,13 @@
 # Dashboard Bike Sharing ✨
-
+## New Update!!
+...
+Dashboard sudah interaktif dapat berubah berdasarkan tanggal
+...
+## Set Up Environtment - VS Code untuk Dashboard 
+...
+py -m venv .venv
+.venv\Scripts\activate
+...
 ## Run steamlit app
 
 ```
@@ -25,13 +33,11 @@ hour_df = pd.read_csv('hour.csv')
 
 kemudian jalankan semua kode di file 'Proyek Analisis Data' tersebut
 
-dashboard.py --> python untuk menjalankan streamlit (buka dengan Visual Studio Code)
-impor data yang digunakan yaitu file newday.csv dan newhour.csv (dari lokal)
+dashboardBaru.py --> python untuk menjalankan streamlit (buka dengan Visual Studio Code)
+impor data yang digunakan yaitu file newday.csv dan newhour.csv
 
-pada command prompt run 'streamlit run dashboard.py'
-
-local host Ketika saya run :
- Local URL: http://localhost:8501
- Network URL: http://192.168.1.6:8501
+pada command prompt run 'streamlit run dashboardBaru.py'
 
 kemudian run file python, apabila sudah benar akan muncul dashboard streamlit di chrome
+
+!! UNTUK MELIHAT DASHBOARD BISA LANGSUNG KE url.txt!!
