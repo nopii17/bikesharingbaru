@@ -13,8 +13,8 @@ st.title("Bike Sharing Data Analysis")
 @st.cache_data
 def load_data():
     # Load the dataset from the uploaded files
-    day_df = pd.read_csv("C:\\Users\\Novia Rahmadhani\\OneDrive\\Documents\\Bike-sharing-dataset\\dashboard\\newday.csv")
-    hour_df = pd.read_csv("C:\\Users\\Novia Rahmadhani\\OneDrive\\Documents\\Bike-sharing-dataset\\dashboard\\newhour.csv")
+    day_df = pd.read_csv("dashboard/newday.csv")
+    hour_df = pd.read_csv("dashboard/newhour.csv")
     return day_df, hour_df
 
 day_df, hour_df = load_data()
